@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gamnv7ye8grnk0v9?svg=true)](https://ci.appveyor.com/project/Shlaginau/ajs-hw-advanced-for-in)
+
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
